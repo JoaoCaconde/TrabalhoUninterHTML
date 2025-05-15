@@ -1,6 +1,0 @@
-document.getElementById("Botao").addEventListener("click", function() {
-    alert("Mensagem Enviada!");  //Essa função emite um alerta assim que o botão "enviar" do formulário é pressionado.
-  });
-function changeText(id) {
-  id.innerHTML = "Olá! Meu nome é João Guilherme, sou uma pessoa muito regrada e que gosta de correr atrás dos seus objetivos, sempre procuro melhorar a cada dia e por isso estou sempre procurando aprender coisas novas. Faço academia e ando de bicicleta nas horas vagas, sou uma pessoa caseira então prefiro ficar em casa, mas também gosto de reunir com amigos e familiares nos finais de semana. Atualmente faço estágio na área de T.I em uma empresa, e isso está me ajudando muito no desenvolvimento de habilidades com programação e computação em geral, um dos meus grandes objetivos é me tornar um profissinal competente e habilidoso em qualquer área computacional.";
-}  //Essa função mostra esse texto quando um outro texto que está dentro do menu "Sobre mim" é apertado.
